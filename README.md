@@ -1,0 +1,2 @@
+# Soduko
+Solve soduko game 
